@@ -19,7 +19,7 @@ var articles =
     'article-one': {
     title: 'Article One | Juwel Hassan',
     heading: 'Article One',
-    date: 'Feb 24, 2018',
+    date: '6 march, 2018',
     content: `
             <p>
               This is the content for my first article. This is the content for my first article.This is the content for my first article.
